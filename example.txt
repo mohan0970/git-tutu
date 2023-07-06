@@ -1,1 +1,2 @@
+It is example file-dev2
 It is example file1
